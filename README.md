@@ -26,8 +26,9 @@
 
 > **DocMind** is a production-grade, multi-agent RAG pipeline that lets you upload documents and ask questions about them — naturally, accurately, and with automatic fallback to Wikipedia when the document doesn't have the answer.
 
-<video controls src="demo.mp4" title="Title"></video>
-<br/>
+## 🎥 Demo (Click below to watch the full system in action 👇)
+
+[![Demo](./image.png)](https://drive.google.com/file/d/1MbHV2PKCYlB0PFInQAm6WbY476M-L6gw/view?usp=sharing)
 
 ---
 
